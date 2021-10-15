@@ -12,6 +12,9 @@
     "eslint"
   ],
   "files": ["template", "template.json"],
+  "engines": {
+    "node": "^14.17.0"
+  },
   "author": {
     "name": "Bastien Grignon",
     "url": "https://github.com/bastiengrignon"
