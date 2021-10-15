@@ -5,5 +5,5 @@ React Template with **Tailwindcss**, **Typescript**, **ESLint** configured for [
 ## Usage
 
 ```sh
-npx create-react-app my-app --template typescript-tailwindcss
+npx create-react-app my-app --template react-typescript-tailwindcss
 ```
